@@ -4,7 +4,7 @@
 </head> 
 <style type='css'> </style>
 <body>
-<img src="C:/Users/AMIT-DELL/OneDrive/Desktop/Computer Project/offering (1).jfif"  style="margin-top:-8px;margin-left:-10px;" width=1267 height=160 ></img>
+<img src="Attraction_Review-g295424-d10687494-Reviews-IMG_Worlds_of_Adventure-Dubai_Emirate_of_Dubai"  style="margin-top:-8px;margin-left:-10px;" width=1267 height=160 ></img>
 <h1 style="color:white;margin-top:-90px;margin-left:60px"> Famous Places in India</h1>
 <h2 style="color:#781A1A;margin-top:100px;margin-left:25px"> About India's Famous Place</h2>
 <p style="font-size:20;">India’s landscape is a masterclass in historical layering. The Taj Mahal (Agra) remains the gold standard for symmetry and Mughal elegance, while Hampi’s boulder-strewn ruins (Karnataka) preserve the skeletal remains of a vanished 14th-century empire. Spiritual centers like the Golden Temple (Amritsar) and Varanasi’s riverfront ghats offer visceral, living culture, contrasting with the ancient, silent rock-cut mastery of the Ajanta Caves (Maharashtra). From the high-altitude peaks of Sikkim to the rhino-guarded plains of Kaziranga (Assam), India's famous sites blend man-made grandeur with raw, natural heritage. Recent UNESCO additions like the Moidams of Assam and the Maratha Military Landscapes further highlight the country's diverse architectural evolution. This unique fusion of living traditions and ancient monuments ensures that every corner of the subcontinent tells a distinct story of human achievement.</p>
